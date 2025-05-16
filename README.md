@@ -39,3 +39,7 @@ When the user opens the dashboard, it fetches logs from the server, processes th
 This task successfully integrated all components: the Chrome extension for tracking and blocking, the Express backend for data storage, and the React frontend for visualization. It demonstrated how real-time data can be collected, stored, and displayed in a full-stack application.
 
 The Productivity Tracker project is highly practical and applicable in personal, educational, and workplace environments. It can be extended to support user authentication, daily/weekly stats, export features, or even AI-based productivity suggestions.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8957c408-6104-4f25-ad2a-9cc0b5e25d47)
